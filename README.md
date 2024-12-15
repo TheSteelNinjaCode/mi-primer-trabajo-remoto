@@ -9,8 +9,6 @@ Enlaces de interés para crear tu primer CV:
 
 [Rx Resume](https://rxresu.me/)
 
-## Linea de aprendizaje
-
 ## Línea de aprendizaje
 
 Para ayudarte a planificar tu aprendizaje y desarrollo profesional, te recomendamos visitar el siguiente recurso:
