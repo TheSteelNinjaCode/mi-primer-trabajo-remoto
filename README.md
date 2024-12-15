@@ -28,3 +28,14 @@ YouTube
 ## Plataformas de trabajo remoto
 
 [linkedin](https://www.linkedin.com/)
+[upwork](https://www.upwork.com/)
+[getonboard](https://www.getonbrd.com/)
+
+## Herramientas de Inteligencia Artificial
+
+[chatgpt](https://chat.openai.com/)
+[bolt](https://bolt.new/)
+[cursor](https://www.cursor.com/)
+[v0](https://v0.dev/)
+[copilot](https://copilot.github.com/)
+[devin](https://devin.ai/)
